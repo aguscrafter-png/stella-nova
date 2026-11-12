@@ -8,6 +8,10 @@ echo       PUBLICAR STELLA NOVA
 echo ========================================
 echo.
 
+echo [1/4] Sincronizando imagenes...
+robocopy "F:\Obsidian\Stella Nova\Imagenes" "%~dp0content\Imagenes" /E
+if errorlevel 8 goto error
+
 for /f "delims=" %%B in ('git branch --show-current') do set "BRANCH=%%B"
 
 if not "%BRANCH%"=="v5" (
@@ -16,19 +20,19 @@ if not "%BRANCH%"=="v5" (
     exit /b 1
 )
 
-echo [1/3] Preparando cambios...
+echo [2/4] Preparando cambios...
 git add -A
 if errorlevel 1 goto error
 
 git diff --cached --quiet
 if not errorlevel 1 goto no_changes
 
-echo [2/3] Guardando cambios...
+echo [3/4] Guardando cambios...
 git commit -m "Actualizar wiki Stella Nova"
 if errorlevel 1 goto error
 
 :no_changes
-echo [3/3] Subiendo a GitHub...
+echo [4/4] Subiendo a GitHub...
 git push origin v5
 if errorlevel 1 goto error
 
