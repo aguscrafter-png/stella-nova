@@ -1,20 +1,9 @@
 ---
-title: Stella Nova
+title: Stella Nova✨
 ---
+*Una enciclopedia del mundo de Petram... y un poquito mas.*
 
-# ✨ Stella Nova
-
-*Una enciclopedia del mundo de Petram.*
-
-Nadie recuerda qué ocurrió aquella noche.
-
-**`~text here~`**
-
-<span class="mc-obfuscated" data-mc-length="30"></span>!
-<span class="mc-obfuscated">TEXTO SECRETO</span> --
-Y, sin embargo, las estrellas siguen hablando.
-
-Bienvenido a **Stella Nova**, un registro de los territorios, civilizaciones, personajes, misterios y acontecimientos que dan forma a Petram.
+Bienvenido al **Index**, un registro de los territorios, civilizaciones, personajes, misterios y acontecimientos que dan forma a Stella Nova.
 
 Bajo un cielo marcado por antiguas constelaciones, el mundo continúa existiendo sobre los restos de una historia olvidada. Los pueblos construyen sus reinos, las civilizaciones guardan secretos y, más allá de lo conocido, algo permanece esperando.
 
@@ -31,7 +20,7 @@ El origen de todo, la creación de Stella Prima, las constelaciones y la amenaza
 - [[Cosmología]]
 - [[Stella Prima]]
 - [[El Vacío]]
-- [[Las 22 Constelaciones]]
+- [[Cosmología/Tarot/- Tarot|- Tarot]]
 
 ### Atlas de Petram
 
