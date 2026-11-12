@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: es-ES
-  baseUrl: aguscrafter-png.github.io/stella-nova/
+  baseUrl: aguscrafter-png.github.io/stella-nova
   ignorePatterns:
     - private
     - templates
