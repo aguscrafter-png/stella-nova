@@ -15,7 +15,7 @@
 
 ## [[0 - El Loco]] ✅
 
-  
+![[El Loco.webp|wrap-left]]
 
 *Constelación de la Pluma Errante*
 
