@@ -4,7 +4,7 @@ title: Stella Nova
 
 # ✨ Stella Nova
 
-*Una enciclopedia del mundo de Petram.*
+*Una enciclopedia del mundo de Petram.* AAAAAAAA
 
 Bienvenido a **Stella Nova**, un registro de los territorios, civilizaciones, personajes, misterios y acontecimientos que dan forma a Petram.
 
