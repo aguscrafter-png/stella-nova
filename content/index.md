@@ -4,7 +4,13 @@ title: Stella Nova
 
 # ✨ Stella Nova
 
-*Una enciclopedia del mundo de Petram.* AAAAAAAA
+*Una enciclopedia del mundo de Petram.*
+
+Nadie recuerda qué ocurrió aquella noche.
+
+<span class="mc-obfuscated">Stella Prima no murió realmente</span>
+
+Y, sin embargo, las estrellas siguen hablando.
 
 Bienvenido a **Stella Nova**, un registro de los territorios, civilizaciones, personajes, misterios y acontecimientos que dan forma a Petram.
 
