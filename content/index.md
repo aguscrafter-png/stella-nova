@@ -8,7 +8,7 @@ title: Stella Nova
 
 Nadie recuerda qué ocurrió aquella noche.
 
-<span class="mc-obfuscated">Stella Prima no murió realmente</span>
+`~Stella Prima no murió realmente~`
 
 Y, sin embargo, las estrellas siguen hablando.
 
