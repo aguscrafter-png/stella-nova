@@ -12,3 +12,6 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+# Respaldos locales
+quartz.config.backup.yaml
+content-respaldo/
