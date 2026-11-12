@@ -1,10 +1,7 @@
 
 @use "./variables.scss" as *;
 
-// Efecto de texto oculto estilo Minecraft §k
 .mc-obfuscated {
-  display: inline-block;
   font-family: monospace;
   letter-spacing: 0.05em;
-  white-space: pre-wrap;
 }

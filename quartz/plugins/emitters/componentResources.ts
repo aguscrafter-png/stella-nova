@@ -91,6 +91,7 @@ async function joinScripts(scripts: string[]): Promise<string> {
 }
 
 function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentResources) {
+    componentResources.afterDOMLoaded.push(mcObfuscatedScript)
   const cfg = ctx.cfg.configuration
 
   // popovers

@@ -11,7 +11,7 @@ Nadie recuerda qué ocurrió aquella noche.
 **`~text here~`**
 
 <span class="mc-obfuscated" data-mc-length="30"></span>!
-
+<span class="mc-obfuscated">TEXTO SECRETO</span> --
 Y, sin embargo, las estrellas siguen hablando.
 
 Bienvenido a **Stella Nova**, un registro de los territorios, civilizaciones, personajes, misterios y acontecimientos que dan forma a Petram.
