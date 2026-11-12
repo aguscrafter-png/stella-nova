@@ -9,13 +9,11 @@
 ***Efecto mecánico: Un efecto Pasivo que siempre esta activo en el personaje***
 ***Manifestación especial: Un efecto activo que gasta una acción y que se recupera luego de un descanso largo.***
 
----
 
-  
 
-## [[0 - El Loco]] ✅
-
-![[El Loco.webp|wrap-left]]
+---  
+![[El Loco.jpg|wrap-left]]
+# [[Publico/Cosmología/Tarot/0 - El Loco|0 - El Loco]] ✅
 
 *Constelación de la Pluma Errante*
 
@@ -25,15 +23,8 @@
 
 **Manifestación especial:** Paso en el Vacío - Te mueves hasta 30 pies ignorando terreno, peligros, estructuras o criaturas. Este desplazamiento puede ser interrumpido tantas veces como se quiera en el medio, pero siempre se deben completar los 30 pies. 1/DL
 
-  
-
 ---
-
-  
-
-## [[I - El Mago]] ☣
-
-  
+# [[Publico/Cosmología/Tarot/I - El Mago|I - El Mago]] ☣
 
 *Constelación del Alquimista Celeste*
 
@@ -43,18 +34,8 @@
 
 **Manifestación especial:** Manipular lo Imposible - por lo que queda del día tienes un conjuro de nivel 1 de cualquier lista gratis, la Habilidad de lanzamiento de conjuro es la que elegiste para los trucos. 1/DL
 
-  
-  
-
 ---
-
-  
-  
-  
-
-## [[II - La Sacerdotisa]] ✅
-
-  
+# [[Publico/Cosmología/Tarot/II - La Sacerdotisa|II - La Sacerdotisa]] ✅
 
 *Constelación del Velo Plateado*
 
@@ -62,22 +43,11 @@
 
 **Efecto mecánico:** Competencia Intuición. Al dormir hay una posibilidad de recibir un Augurio recibe visión simbólica dependiendo de la constelación actual. Puedes comunicar un mensaje de 10 palabras con otro individuo al que veas hasta 30 pies.
 
-**Manifestación especial:** Revelación Silenciosa - Puede lanzar Detectar Magia gratis con los siguientes efectos adicionales: 1/DL.
+**Manifestación especial:** Revelación Silenciosa - Puede lanzar Detectar Magia gratis ignorando restricciones de barreras: 1/DL.
 
-- Ignoras restricciones de barreras
-    
-- Las criaturas de tu elección pueden percibir las fuentes de magia, pero no así la escuela.
-    
-
-  
 
 ---
-
-  
-
-## [[III - La Emperatriz]] ✅
-
-  
+# [[Publico/Cosmología/Tarot/III - La Emperatriz|III - La Emperatriz]] ✅
 
 *Constelación del Jardín Eterno*
 
@@ -87,15 +57,13 @@
 
 **Manifestación especial:** Bendición Abundante - Todos los aliados a 10 pies exceptuando al usuario recuperan 2d4+Prof puntos de vida 1/DL.
 
-  
+
+
+
+
 
 ---
-
-  
-
-## [[IV - El Emperador]]
-
-  
+# [[Publico/Cosmología/Tarot/IV - El Emperador|IV - El Emperador]]
 
 *Constelación del Trono Escarlata*
 
@@ -105,15 +73,10 @@
 
 **Manifestación especial:** Mando Imponente - Obligas a todos los enemigos a 15 pies a hacer una tirada de salvación de sabiduría o quedar aturdidos por 1 turno 1/DL.
 
-  
+
 
 ---
-
-  
-
-## [[V - El Hierofante]]
-
-  
+# [[Publico/Cosmología/Tarot/V - El Hierofante|V - El Hierofante]]
 
 *Constelación del Guardián del Dogma* 
 
@@ -123,15 +86,15 @@
 
 **Manifestación especial:** _Invocación Sagrada_ - Si estas tocando a alguien puedes obligarlo a decir la verdad a una sola pregunta 1/DL.
 
-  
+
+
+
+
 
 ---
-
   
 
-## [[VI - Los Enamorados]]
-
-  
+# [[Publico/Cosmología/Tarot/VI - Los Enamorados|VI - Los Enamorados]]
 
 *Constelación de los Corazones Gemelos*  
 
@@ -147,9 +110,7 @@
 
   
 
-## [[VII - El Carro]]
-
-  
+# [[Publico/Cosmología/Tarot/VII - El Carro|VII - El Carro]]
 
 *Constelación del Vencedor Errante*
 
@@ -165,9 +126,7 @@
 
   
 
-## [[VIII - La Fuerza]]
-
-  
+# [[Publico/Cosmología/Tarot/VIII - La Fuerza|VIII - La Fuerza]]
 
 *Constelación de la Dama y la Bestia*
 
@@ -183,9 +142,7 @@
 
   
 
-## [[IX - El Ermitaño]]
-
-  
+# [[Publico/Cosmología/Tarot/IX - El Ermitaño|IX - El Ermitaño]]
 
 *Constelación del Faro Silente*
 
@@ -201,9 +158,7 @@
 
   
 
-## [[X -  La Rueda de la Fortuna]]
-
-  
+# [[Publico/Cosmología/Tarot/X -  La Rueda de la Fortuna|X -  La Rueda de la Fortuna]]
 
 *Constelación del Ciclo Infinito*
 
@@ -219,9 +174,7 @@
 
   
 
-## [[XI - La Justicia]]
-
-  
+# [[Publico/Cosmología/Tarot/XI - La Justicia|XI - La Justicia]]
 
 *Constelación del Equilibrio Eterno*
 
@@ -237,9 +190,7 @@
 
   
 
-## [[XII - El Colgado]]
-
-  
+# [[Publico/Cosmología/Tarot/XII - El Colgado|XII - El Colgado]]
 
 *Constelación del Espejo Invertido*
 
@@ -255,9 +206,7 @@
 
   
 
-## [[XIII - La Muerte]]
-
-  
+# [[Publico/Cosmología/Tarot/XIII - La Muerte|XIII - La Muerte]]
 
 *Constelación de la Transición Silenciosa*
 
@@ -273,9 +222,7 @@
 
   
 
-## [[XIV - La Templanza]]
-
-  
+# [[Publico/Cosmología/Tarot/XIV - La Templanza|XIV - La Templanza]]
 
 *Constelación de las Aguas Mezcladas*
 
@@ -291,9 +238,7 @@
 
   
 
-## [[XV - El Diablo]]
-
-  
+# [[Publico/Cosmología/Tarot/XV - El Diablo|XV - El Diablo]]
 
 *Constelación de las Cadenas Rientes*
 
@@ -309,9 +254,7 @@
 
   
 
-## [[XVI - La Torre]]
-
-  
+# [[Publico/Cosmología/Tarot/XVI - La Torre|XVI - La Torre]]
 
 *Constelación del Rayo Caído*
 
@@ -327,9 +270,7 @@
 
   
 
-## [[XVII - La Estrella]]
-
-  
+# [[Publico/Cosmología/Tarot/XVII - La Estrella|XVII - La Estrella]]
 
 *Constelación del Manantial Celeste*
 
@@ -345,9 +286,7 @@
 
   
 
-## [[XVIII - La Luna]]
-
-  
+# [[Publico/Cosmología/Tarot/XVIII - La Luna|XVIII - La Luna]]
 
 *Constelación del Reflejo Profundo*
 
@@ -363,9 +302,7 @@
 
   
 
-## [[XIX - El Sol]]
-
-  
+# [[Publico/Cosmología/Tarot/XIX - El Sol|XIX - El Sol]]
 
 *Constelación del Corazón Radiante*
 
@@ -381,9 +318,7 @@
 
   
 
-## [[XX - El Juicio]]
-
-  
+# [[Publico/Cosmología/Tarot/XX - El Juicio|XX - El Juicio]]
 
 *Constelación de las Trompetas Finales*
 
@@ -399,9 +334,7 @@
 
   
 
-## [[XXI - El Mundo]]
-
-  
+# [[Publico/Cosmología/Tarot/XXI - El Mundo|XXI - El Mundo]]
 
 *Constelación de la Danza Infinita*
 

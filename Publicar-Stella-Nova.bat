@@ -9,7 +9,7 @@ echo ========================================
 echo.
 
 echo [1/4] Sincronizando imagenes...
-robocopy "F:\Obsidian\Stella Nova\Imagenes" "%~dp0content\Imagenes" /E
+robocopy "F:\Vaults!\Stella Nova\Imagenes" "%~dp0content\Imagenes" /E
 if errorlevel 8 goto error
 
 for /f "delims=" %%B in ('git branch --show-current') do set "BRANCH=%%B"

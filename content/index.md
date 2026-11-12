@@ -20,7 +20,7 @@ El origen de todo, la creación de Stella Prima, las constelaciones y la amenaza
 - [[Cosmología]]
 - [[Stella Prima]]
 - [[El Vacío]]
-- [[Cosmología/Tarot/- Tarot|- Tarot]]
+- [[Publico/Cosmología/Tarot/- Tarot|- Tarot]]
 
 ### Atlas de Petram
 
