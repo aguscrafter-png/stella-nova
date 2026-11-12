@@ -244,7 +244,7 @@ a {
       gap: 1.2rem;
       top: 0;
       box-sizing: border-box;
-      padding: $topSpacing 2rem 2rem 2rem;
+      padding: $topSpacing 1rem 1rem 1rem;
       display: flex;
       height: 100vh;
       position: sticky;
@@ -309,6 +309,10 @@ a {
     & .page-header,
     & .page-footer {
       margin-top: 1rem;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+      align-items: start;
     }
 
     & .page-header {

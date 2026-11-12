@@ -85,8 +85,8 @@ plugins:
     enabled: true
     order: 50
     layout:
-      position: right
-      priority: 30
+      position: afterBody
+      priority: 10
   - source: "@quartz-community/description"
     enabled: true
     order: 70
@@ -154,8 +154,8 @@ plugins:
   - source: "@quartz-community/graph"
     enabled: true
     layout:
-      position: right
-      priority: 10
+      position: afterBody
+      priority: 40
   - source: "@quartz-community/search"
     enabled: true
     layout:
