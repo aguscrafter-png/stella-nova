@@ -5,3 +5,28 @@
   font-family: monospace;
   letter-spacing: 0.05em;
 }
+/* Ajuste de texto alrededor de imágenes de Obsidian */
+.image-wrap-left {
+  float: left;
+  max-width: 40%;
+  height: auto;
+  margin: 0.5rem 1.25rem 1rem 0;
+}
+
+.image-wrap-right {
+  float: right;
+  max-width: 40%;
+  height: auto;
+  margin: 0.5rem 0 1rem 1.25rem;
+}
+
+/* Evitar que las imágenes floten en pantallas pequeñas */
+@media (max-width: 600px) {
+  .image-wrap-left,
+  .image-wrap-right {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 1rem auto;
+  }
+}

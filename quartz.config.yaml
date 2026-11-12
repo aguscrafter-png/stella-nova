@@ -260,6 +260,10 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: ./local-plugins/image-wrap
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:

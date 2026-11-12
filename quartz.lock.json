@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "image-wrap": {
+      "source": "./local-plugins/image-wrap",
+      "resolved": "C:\\Users\\agust\\OneDrive\\Documentos\\MiWiki\\local-plugins\\image-wrap",
+      "commit": "local",
+      "installedAt": "2026-11-12T15:24:29.882Z"
+    }
+  }
+}

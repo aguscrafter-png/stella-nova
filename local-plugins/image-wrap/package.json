@@ -1,0 +1,26 @@
+{
+  "name": "image-wrap",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "quartz": {
+    "category": "transformer"
+  },
+  "scripts": {
+    "build": "tsup index.js --format esm --out-dir dist && node -e require('fs').copyFileSync('index.d.ts','dist/index.d.ts')"
+  },
+  "dependencies": {
+    "unist-util-visit": "^5.0.0"
+  },
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "typescript": "^5.0.0"
+  }
+}
