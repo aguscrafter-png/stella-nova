@@ -1,0 +1,124 @@
+{
+  "size": {
+    "w": 4096,
+    "h": 3072
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "id": "swb_no9luj",
+      "type": "switch",
+      "layer": "default",
+      "x": 0,
+      "y": 0,
+      "iconKey": "pinRed",
+      "switchRotate": true
+    }
+  ],
+  "bases": [
+    "Imagenes/Mapas/Petram.jpg"
+  ],
+  "overlays": [],
+  "activeBase": "Imagenes/Mapas/Petram.jpg",
+  "measurement": {
+    "displayUnit": "km",
+    "scales": {
+      "Imagenes/Mapas/Petram.jpg": 405.0912830422695
+    },
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "metersPerPixel": 405.0912830422695
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_zgl956",
+      "label": "Delete dice",
+      "createdAt": "2026-11-13T02:08:19.568Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "id": "dice_ywmbot",
+          "type": "dice",
+          "x": 0.46530983664772724,
+          "y": 0.596123897668087,
+          "layer": "default",
+          "iconKey": "pinRed",
+          "diceRolls": [
+            {
+              "count": 1,
+              "sides": 20
+            }
+          ],
+          "tooltip": "1d20"
+        },
+        "index": 1
+      }
+    },
+    {
+      "id": "undo_wdtk7g",
+      "label": "Delete dice",
+      "createdAt": "2026-11-13T02:02:07.712Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "id": "dice_fomv6p",
+          "type": "dice",
+          "x": 0.4954944957386363,
+          "y": 0.487814238577178,
+          "layer": "default",
+          "iconKey": "pinRed",
+          "diceRolls": [
+            {
+              "count": 1,
+              "sides": 20
+            }
+          ],
+          "tooltip": "1d20"
+        },
+        "index": 1
+      }
+    },
+    {
+      "id": "undo_xv2adq",
+      "label": "Delete marker",
+      "createdAt": "2026-11-13T02:01:35.624Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "id": "marker_fdng88",
+          "x": 0.4772818657016486,
+          "y": 0.21512013561320756,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": "",
+          "anchorSpace": "viewport",
+          "hudX": 593.5,
+          "hudY": 182.421875,
+          "hudModeX": "left",
+          "hudModeY": "top",
+          "hudLastWidth": 1243.5,
+          "hudLastHeight": 848
+        },
+        "index": 0
+      }
+    }
+  ]
+}

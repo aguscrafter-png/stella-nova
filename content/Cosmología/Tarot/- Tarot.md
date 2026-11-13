@@ -12,8 +12,8 @@
 
 
 ---  
-![[El Loco.jpg|wrap-left]]
-# [[Publico/Cosmología/Tarot/0 - El Loco|0 - El Loco]] ✅
+![[El Loco.jpg|wrap-left|176x274]]
+# [[0 - El Loco]] ✅
 
 *Constelación de la Pluma Errante*
 
@@ -24,7 +24,8 @@
 **Manifestación especial:** Paso en el Vacío - Te mueves hasta 30 pies ignorando terreno, peligros, estructuras o criaturas. Este desplazamiento puede ser interrumpido tantas veces como se quiera en el medio, pero siempre se deben completar los 30 pies. 1/DL
 
 ---
-# [[Publico/Cosmología/Tarot/I - El Mago|I - El Mago]] ☣
+![[Imagenes/Tarots/El Mago.jpg|wrap-right|191x298]]
+# [[I - El Mago]] ☣
 
 *Constelación del Alquimista Celeste*
 
@@ -35,7 +36,7 @@
 **Manifestación especial:** Manipular lo Imposible - por lo que queda del día tienes un conjuro de nivel 1 de cualquier lista gratis, la Habilidad de lanzamiento de conjuro es la que elegiste para los trucos. 1/DL
 
 ---
-# [[Publico/Cosmología/Tarot/II - La Sacerdotisa|II - La Sacerdotisa]] ✅
+# [[II - La Sacerdotisa]] ✅
 
 *Constelación del Velo Plateado*
 
@@ -47,7 +48,7 @@
 
 
 ---
-# [[Publico/Cosmología/Tarot/III - La Emperatriz|III - La Emperatriz]] ✅
+# [[III - La Emperatriz]] ✅
 
 *Constelación del Jardín Eterno*
 
@@ -63,7 +64,7 @@
 
 
 ---
-# [[Publico/Cosmología/Tarot/IV - El Emperador|IV - El Emperador]]
+# [[IV - El Emperador]]
 
 *Constelación del Trono Escarlata*
 
@@ -76,7 +77,7 @@
 
 
 ---
-# [[Publico/Cosmología/Tarot/V - El Hierofante|V - El Hierofante]]
+# [[V - El Hierofante]]
 
 *Constelación del Guardián del Dogma* 
 
@@ -94,7 +95,7 @@
 ---
   
 
-# [[Publico/Cosmología/Tarot/VI - Los Enamorados|VI - Los Enamorados]]
+# [[VI - Los Enamorados]]
 
 *Constelación de los Corazones Gemelos*  
 
@@ -110,7 +111,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/VII - El Carro|VII - El Carro]]
+# [[VII - El Carro]]
 
 *Constelación del Vencedor Errante*
 
@@ -126,7 +127,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/VIII - La Fuerza|VIII - La Fuerza]]
+# [[VIII - La Fuerza]]
 
 *Constelación de la Dama y la Bestia*
 
@@ -142,7 +143,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/IX - El Ermitaño|IX - El Ermitaño]]
+# [[IX - El Ermitaño]]
 
 *Constelación del Faro Silente*
 
@@ -158,7 +159,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/X -  La Rueda de la Fortuna|X -  La Rueda de la Fortuna]]
+# [[X -  La Rueda de la Fortuna]]
 
 *Constelación del Ciclo Infinito*
 
@@ -174,7 +175,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XI - La Justicia|XI - La Justicia]]
+# [[XI - La Justicia]]
 
 *Constelación del Equilibrio Eterno*
 
@@ -190,7 +191,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XII - El Colgado|XII - El Colgado]]
+# [[XII - El Colgado]]
 
 *Constelación del Espejo Invertido*
 
@@ -206,7 +207,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XIII - La Muerte|XIII - La Muerte]]
+# [[XIII - La Muerte]]
 
 *Constelación de la Transición Silenciosa*
 
@@ -222,7 +223,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XIV - La Templanza|XIV - La Templanza]]
+# [[XIV - La Templanza]]
 
 *Constelación de las Aguas Mezcladas*
 
@@ -238,7 +239,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XV - El Diablo|XV - El Diablo]]
+# [[XV - El Diablo]]
 
 *Constelación de las Cadenas Rientes*
 
@@ -254,7 +255,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XVI - La Torre|XVI - La Torre]]
+# [[XVI - La Torre]]
 
 *Constelación del Rayo Caído*
 
@@ -270,7 +271,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XVII - La Estrella|XVII - La Estrella]]
+# [[XVII - La Estrella]]
 
 *Constelación del Manantial Celeste*
 
@@ -286,7 +287,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XVIII - La Luna|XVIII - La Luna]]
+# [[XVIII - La Luna]]
 
 *Constelación del Reflejo Profundo*
 
@@ -302,7 +303,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XIX - El Sol|XIX - El Sol]]
+# [[XIX - El Sol]]
 
 *Constelación del Corazón Radiante*
 
@@ -318,7 +319,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XX - El Juicio|XX - El Juicio]]
+# [[XX - El Juicio]]
 
 *Constelación de las Trompetas Finales*
 
@@ -334,7 +335,7 @@
 
   
 
-# [[Publico/Cosmología/Tarot/XXI - El Mundo|XXI - El Mundo]]
+# [[XXI - El Mundo]]
 
 *Constelación de la Danza Infinita*
 
