@@ -5,14 +5,14 @@
 
 *Cada personaje elige (o se le asigna) una constelación según su fecha y lugar de nacimiento. Estas constelaciones, basadas en los Arcanos Mayores del Tarot, otorgan efectos narrativos y mecánicos que influyen en la historia y las aventuras.*
 
-**Quid: La esencia de la constelación y su dominio.**
+***Quid: La esencia de la constelación y su dominio.***
 ***Efecto mecánico: Un efecto Pasivo que siempre esta activo en el personaje***
 ***Manifestación especial: Un efecto activo que gasta una acción y que se recupera luego de un descanso largo.***
-
+***Supernova: <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>***
 
 
 ---  
-![[El Loco.jpg|wrap-left|176x274]]
+![[El Loco.jpg|wrap-right|208]]
 # [[0 - El Loco]] ✅
 
 *Constelación de la Pluma Errante*
@@ -21,10 +21,12 @@
 
 **Efecto mecánico:** Competencia Juego de manos. Ventaja en tiradas de salvación contra miedo y parálisis. Puede lanzar Caída de pluma gratis.  
 
-**Manifestación especial:** Paso en el Vacío - Te mueves hasta 30 pies ignorando terreno, peligros, estructuras o criaturas. Este desplazamiento puede ser interrumpido tantas veces como se quiera en el medio, pero siempre se deben completar los 30 pies. 1/DL
+**Manifestación especial:** Paso en el Vacío - Te mueves hasta 60 pies ignorando terreno, peligros, estructuras o criaturas. Este desplazamiento puede ser interrumpido tantas veces como se quiera en el medio, pero siempre se deben completar los 60 pies. 1/DL
+
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-![[Imagenes/Tarots/El Mago.jpg|wrap-right|191x298]]
+![[Imagenes/Tarots/El Mago.jpg|wrap-left|216]]
 # [[I - El Mago]] ☣
 
 *Constelación del Alquimista Celeste*
@@ -35,7 +37,10 @@
 
 **Manifestación especial:** Manipular lo Imposible - por lo que queda del día tienes un conjuro de nivel 1 de cualquier lista gratis, la Habilidad de lanzamiento de conjuro es la que elegiste para los trucos. 1/DL
 
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
+
 ---
+![[Imagenes/Tarots/La Sacerdotisa.jpg|wrap-right|223x348]]
 # [[II - La Sacerdotisa]] ✅
 
 *Constelación del Velo Plateado*
@@ -46,8 +51,11 @@
 
 **Manifestación especial:** Revelación Silenciosa - Puede lanzar Detectar Magia gratis ignorando restricciones de barreras: 1/DL.
 
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
+
 
 ---
+![[Imagenes/Tarots/La Emperatriz.jpg|wrap-left|207x323]]
 # [[III - La Emperatriz]] ✅
 
 *Constelación del Jardín Eterno*
@@ -58,12 +66,11 @@
 
 **Manifestación especial:** Bendición Abundante - Todos los aliados a 10 pies exceptuando al usuario recuperan 2d4+Prof puntos de vida 1/DL.
 
-
-
-
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 
 ---
+![[Imagenes/Tarots/El Emperador.jpg|wrap-right|191x298]]
 # [[IV - El Emperador]]
 
 *Constelación del Trono Escarlata*
@@ -74,9 +81,10 @@
 
 **Manifestación especial:** Mando Imponente - Obligas a todos los enemigos a 15 pies a hacer una tirada de salvación de sabiduría o quedar aturdidos por 1 turno 1/DL.
 
-
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
+![[Imagenes/Tarots/El Hierofante.jpg|wrap-left|228x355]]
 # [[V - El Hierofante]]
 
 *Constelación del Guardián del Dogma* 
@@ -87,14 +95,13 @@
 
 **Manifestación especial:** _Invocación Sagrada_ - Si estas tocando a alguien puedes obligarlo a decir la verdad a una sola pregunta 1/DL.
 
-
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 
 
 
 ---
-  
-
+![[Imagenes/Tarots/Los Enamorados.jpg|wrap-right|192x300]]
 # [[VI - Los Enamorados]]
 
 *Constelación de los Corazones Gemelos*  
@@ -105,12 +112,10 @@
 
 **Manifestación especial:** _Lazo Inquebrantable_ - Puedes tomar la mitad del daño que reciba tu vínculo especial en un ataque 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/El Carro.jpg|wrap-left|192x299]]
 # [[VII - El Carro]]
 
 *Constelación del Vencedor Errante*
@@ -121,13 +126,11 @@
 
 **Manifestación especial:** _Impulso Incontenible_ - Dobla tu velocidad durante un turno y no provocas ataques de oportunidad 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
-# [[VIII - La Fuerza]]
+![[Imagenes/Tarots/Fuerza.jpg|wrap-right|206x321]]
+# [[VIII - Fuerza]]
 
 *Constelación de la Dama y la Bestia*
 
@@ -137,12 +140,10 @@
 
 **Manifestación especial:** _Valentía Serena_ - Puedes resistir una condición negativa por 1 minuto (como miedo o veneno) 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/El Ermitaño.jpg|wrap-left|205x320]]
 # [[IX - El Ermitaño]]
 
 *Constelación del Faro Silente*
@@ -153,13 +154,11 @@
 
 **Manifestación especial:** _Lámpara del Camino_ - Puedes ver en completa oscuridad (incluida mágica) por 10 minutos 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
-# [[X -  La Rueda de la Fortuna]]
+![[Imagenes/Tarots/Rueda De La Fortuna.jpg|wrap-right|193x301]]
+# [[X - Rueda de la Fortuna]]
 
 *Constelación del Ciclo Infinito*
 
@@ -169,13 +168,11 @@
 
 **Manifestación especial:** _Giro del Destino_ - Puedes hacer que un aliado repita una tirada con desventaja (si la fallas con un critico ocurrirá una explosión de magia salvaje) 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
-# [[XI - La Justicia]]
+![[Imagenes/Tarots/Justicia.jpg|wrap-left|188x293]]
+# [[XI - Justicia]]
 
 *Constelación del Equilibrio Eterno*
 
@@ -185,12 +182,10 @@
 
 **Manifestación especial:** _Juicio Imparcial_ - Gastas tu reacción fuerza a una criatura a repetir una tirada exitosa que percibas que no te afecte hasta 60 pies 1/DL. 
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/El Colgado.jpg|wrap-right|206x321]]
 # [[XII - El Colgado]]
 
 *Constelación del Espejo Invertido*
@@ -201,13 +196,11 @@
 
 **Manifestación especial:** _Sacrificio Iluminado_ - Puedes pasar el daño que recibe una criatura que persibas a menos de 15 pies a otra que también este a menos de 15 pies, incluyéndote 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
-# [[XIII - La Muerte]]
+![[Imagenes/Tarots/Muerte.jpg|wrap-left|191x298]]
+# [[XIII - Muerte]]
 
 *Constelación de la Transición Silenciosa*
 
@@ -217,13 +210,11 @@
 
 **Manifestación especial:** _Renacimiento Oscuro_ - Vuelves a levantarte con 1 PV al caer a 0 atemorizado de lo que sea que te incapacito 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
-# [[XIV - La Templanza]]
+![[Imagenes/Tarots/Templanza.jpg|wrap-right|196x306]]
+# [[XIV - Templanza]]
 
 *Constelación de las Aguas Mezcladas*
 
@@ -233,12 +224,10 @@
 
 **Manifestación especial:** _Armonía Total_ - Puedes anular el efecto de un estado alterado (como Envenenado o Paralizado) en un aliado 1/DC.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/El Diablo.jpg|wrap-left|193]]
 # [[XV - El Diablo]]
 
 *Constelación de las Cadenas Rientes*
@@ -249,12 +238,10 @@
 
 **Manifestación especial:** _Dominio Tentador_ - Puedes forzar a una criatura que dentro de los 15 pies a atacar a su aliado más cercano en lugar de ti por 3 rondas 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/La Torre.jpg|wrap-right|192x299]]
 # [[XVI - La Torre]]
 
 *Constelación del Rayo Caído*
@@ -265,12 +252,10 @@
 
 **Manifestación especial:** _Destrucción Repentina_ - Lanza un ataque o conjuro que ignora resistencias 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/La Estrella.jpg|wrap-left|191x298]]
 # [[XVII - La Estrella]]
 
 *Constelación del Manantial Celeste*
@@ -281,12 +266,10 @@
 
 **Manifestación especial:** _Luz Interior_ - Puedes curar 2d6 PV a un aliado que haya fallado una tirada de salvación que estés tocando 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/La Luna.jpg|wrap-right|192x299]]
 # [[XVIII - La Luna]]
 
 *Constelación del Reflejo Profundo*
@@ -297,12 +280,10 @@
 
 **Manifestación especial:** _Sombra Cambiante_ - Puedes crear una ilusión menor gratis, que dura 1 minuto 1/DC.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/El Sol.jpg|wrap-left|206]]
 # [[XIX - El Sol]]
 
 *Constelación del Corazón Radiante*
@@ -313,13 +294,11 @@
 
 **Manifestación especial:** _Resplandor Solar_ - Emites un resplandor que ciega a todas las criaturas cercanas que no pasen una salvación de destreza (10+Sab) 15 pies por 1 turno 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
-# [[XX - El Juicio]]
+![[Imagenes/Tarots/Juicio.jpg|wrap-right|193x301]]
+# [[XX - Juicio]]
 
 *Constelación de las Trompetas Finales*
 
@@ -329,12 +308,10 @@
 
 **Manifestación especial:** _Llamado del Más Allá_ - Un aliado caído puede hacer una tirada de muerte con ventaja 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
-
-  
-
+![[Imagenes/Tarots/El Mundo.jpg|wrap-left|190x296]]
 # [[XXI - El Mundo]]
 
 *Constelación de la Danza Infinita*
@@ -345,6 +322,6 @@
 
 **Manifestación especial:** _Cierre del Ciclo_ - Puedes tener éxito automático en una tirada si ya fallaste en ella una vez 1/DL.
 
-  
+**Supernova:** <span class="mc-obfuscated">Buen intento gil, pero vas a tener que esperar a que se vea en la mesa :P</span>
 
 ---
