@@ -1,4 +1,4 @@
-*Constelación de la Pluma Errante*
+*![[Imagenes/Tarots/El Loco.jpg|wrap-right|572x893]]Constelación de la Pluma Errante*
 
 **Quid:** Desafiante del destino, alma libre. Toma decisiones impulsivas que resultan en eventos inusuales.  
 
@@ -7,4 +7,3 @@
 **Manifestación especial:** Paso en el Vacío - Te mueves hasta 30 pies ignorando terreno, peligros, estructuras o criaturas. Este desplazamiento puede ser interrumpido tantas veces como se quiera en el medio, pero siempre se deben completar los 30 pies. 1/DL
 
 ---
-![[Imagenes/Tarots/El Loco.jpg]]
