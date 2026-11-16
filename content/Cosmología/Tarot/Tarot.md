@@ -1,4 +1,3 @@
-
 ***Los cien primeros cuerpos celestes creados por la Estrella Prima poseen un poder superior al del resto. Están conectados con cada criatura del mundo y con todas las partículas del universo.***
 
 *Algunas de estas criaturas, nacidas bajo el influjo de esas estrellas primigenias, pueden manifestar habilidades únicas que reflejan la esencia del astro que las vio nacer.*

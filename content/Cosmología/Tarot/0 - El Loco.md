@@ -1,4 +1,3 @@
-*![[Imagenes/Tarots/El Loco.jpg|wrap-right|572x893]]Constelación de la Pluma Errante*
 
 **Quid:** Desafiante del destino, alma libre. Toma decisiones impulsivas que resultan en eventos inusuales.  
 
