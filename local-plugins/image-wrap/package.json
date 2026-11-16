@@ -14,7 +14,7 @@
     "category": "transformer"
   },
   "scripts": {
-    "build": "tsup index.js --format esm --out-dir dist && node -e require('fs').copyFileSync('index.d.ts','dist/index.d.ts')"
+    "build": "tsup index.js --format esm --out-dir dist && node -e \"require('fs').copyFileSync('index.d.ts','dist/index.d.ts')\""
   },
   "dependencies": {
     "unist-util-visit": "^5.0.0"
