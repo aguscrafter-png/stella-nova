@@ -7,3 +7,4 @@
 **Manifestación especial:** _Sacrificio Iluminado_ - Puedes pasar el daño que recibe una criatura que persibas a menos de 15 pies a otra que también este a menos de 15 pies, incluyéndote 1/DL.
 
 ---
+![[Imagenes/Tarots/El Colgado.jpg]]

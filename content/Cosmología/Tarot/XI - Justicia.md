@@ -7,3 +7,4 @@
 **Manifestación especial:** _Juicio Imparcial_ - Gastas tu reacción fuerza a una criatura a repetir una tirada exitosa que percibas que no te afecte hasta 60 pies 1/DL. 
 
 ---
+![[Imagenes/Tarots/Justicia.jpg]]

@@ -7,3 +7,4 @@
 **Manifestación especial:** _Dominio Tentador_ - Puedes forzar a una criatura que dentro de los 15 pies a atacar a su aliado más cercano en lugar de ti por 3 rondas 1/DL.
 
 ---
+![[Imagenes/Tarots/El Diablo.jpg]]

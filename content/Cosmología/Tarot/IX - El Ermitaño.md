@@ -7,3 +7,4 @@
 **Manifestación especial:** _Lámpara del Camino_ - Puedes ver en completa oscuridad (incluida mágica) por 10 minutos 1/DL.
 
 ---
+![[Imagenes/Tarots/El Ermitaño.jpg]]

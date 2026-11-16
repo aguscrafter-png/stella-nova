@@ -7,3 +7,4 @@
 **Manifestación especial:** _Invocación Sagrada_ - Si estas tocando a alguien puedes obligarlo a decir la verdad a una sola pregunta 1/DL.
 
 ---
+![[Imagenes/Tarots/El Hierofante.jpg]]

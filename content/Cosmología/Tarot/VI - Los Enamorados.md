@@ -7,3 +7,4 @@
 **Manifestación especial:** _Lazo Inquebrantable_ - Puedes tomar la mitad del daño que reciba tu vínculo especial en un ataque 1/DL.
 
 ---
+![[Imagenes/Tarots/Los Enamorados.jpg]]

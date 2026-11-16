@@ -7,3 +7,4 @@
 **Manifestación especial:** _Renacimiento Oscuro_ - Vuelves a levantarte con 1 PV al caer a 0 atemorizado de lo que sea que te incapacito 1/DL.
 
 ---
+![[Imagenes/Tarots/Muerte.jpg]]

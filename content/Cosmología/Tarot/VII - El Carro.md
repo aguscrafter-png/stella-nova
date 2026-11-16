@@ -7,3 +7,4 @@
 **Manifestación especial:** _Impulso Incontenible_ - Dobla tu velocidad durante un turno y no provocas ataques de oportunidad 1/DL.
 
 ---
+![[Imagenes/Tarots/El Carro.jpg]]

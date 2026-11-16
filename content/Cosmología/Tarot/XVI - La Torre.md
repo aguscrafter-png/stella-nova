@@ -7,3 +7,4 @@
 **Manifestación especial:** _Destrucción Repentina_ - Lanza un ataque o conjuro que ignora resistencias 1/DL.
 
 ---
+![[Imagenes/Tarots/La Torre.jpg]]

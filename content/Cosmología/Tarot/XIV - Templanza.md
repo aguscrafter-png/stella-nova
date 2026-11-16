@@ -7,3 +7,4 @@
 **Manifestación especial:** _Armonía Total_ - Puedes anular el efecto de un estado alterado (como Envenenado o Paralizado) en un aliado 1/DC.
 
 ---
+![[Imagenes/Tarots/Templanza.jpg]]

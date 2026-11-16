@@ -7,3 +7,4 @@
 **Manifestación especial:** _Llamado del Más Allá_ - Un aliado caído puede hacer una tirada de muerte con ventaja 1/DL.
 
 ---
+![[Imagenes/Tarots/Juicio.jpg]]

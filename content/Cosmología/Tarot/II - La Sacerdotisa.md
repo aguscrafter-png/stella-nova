@@ -12,3 +12,4 @@
     
 
 ---
+![[Imagenes/Tarots/La Sacerdotisa.jpg]]

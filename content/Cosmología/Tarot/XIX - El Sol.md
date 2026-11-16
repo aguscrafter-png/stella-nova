@@ -7,3 +7,4 @@
 **Manifestación especial:** _Resplandor Solar_ - Emites un resplandor que ciega a todas las criaturas cercanas que no pasen una salvación de destreza (10+Sab) 15 pies por 1 turno 1/DL.
 
 ---
+![[Imagenes/Tarots/El Sol.jpg]]

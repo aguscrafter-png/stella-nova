@@ -7,3 +7,4 @@
 **Manifestación especial:** Mando Imponente - Obligas a todos los enemigos a 15 pies a hacer una tirada de salvación de sabiduría o quedar aturdidos por 1 turno 1/DL.
 
 ---
+![[Imagenes/Tarots/El Emperador.jpg]]

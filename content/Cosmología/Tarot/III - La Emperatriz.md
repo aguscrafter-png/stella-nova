@@ -7,3 +7,4 @@
 **Manifestación especial:** Bendición Abundante - Todos los aliados a 10 pies exceptuando al usuario recuperan 2d4+Prof puntos de vida 1/DL.
 
 ---
+![[Imagenes/Tarots/La Emperatriz.jpg]]

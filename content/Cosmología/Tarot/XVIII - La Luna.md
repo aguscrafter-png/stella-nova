@@ -7,3 +7,4 @@
 **Manifestación especial:** _Sombra Cambiante_ - Puedes crear una ilusión menor gratis, que dura 1 minuto 1/DC.
 
 ---
+![[Imagenes/Tarots/La Luna.jpg]]

@@ -7,3 +7,4 @@
 **Manifestación especial:** _Valentía Serena_ - Puedes resistir una condición negativa por 1 minuto (como miedo o veneno) 1/DL.
 
 ---
+![[Imagenes/Tarots/Fuerza.jpg]]

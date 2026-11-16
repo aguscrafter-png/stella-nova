@@ -7,3 +7,4 @@
 **Manifestación especial:** _Cierre del Ciclo_ - Puedes tener éxito automático en una tirada si ya fallaste en ella una vez 1/DL.
 
 ---
+![[Imagenes/Tarots/El Mundo.jpg]]

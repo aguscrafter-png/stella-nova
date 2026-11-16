@@ -7,3 +7,4 @@
 **Manifestación especial:** _Giro del Destino_ - Puedes hacer que un aliado repita una tirada con desventaja (si la fallas con un critico ocurrirá una explosión de magia salvaje) 1/DL.
 
 ---
+![[Imagenes/Tarots/Rueda De La Fortuna.jpg]]
