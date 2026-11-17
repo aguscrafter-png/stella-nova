@@ -1,30 +1,31 @@
 ```chronos
-> DEFAULTVIEW 0|100
+> DEFAULTVIEW 978|1478
+> NOTODAY
 
-@ [-10000~-3000] #purple ERA PRIMIGENIA
-- [-10000] #yellow El Sacrificio de Stella Prima
-- [-5000] #green Los Primeros Pueblos
-- [-3500] #blue Aparición de los Humanos
-- [-3500] #red El Primer Vacío
+@ [-8522~-1522] #purple ERA PRIMIGENIA
+- [-8522] #yellow El Sacrificio de Stella Prima
+- [-3522] #green Los Primeros Pueblos
+- [-2022] #blue Aparición de los Humanos
+- [-2022] #red El Primer Vacío
 
-@ [-3000~-1500] #cyan ERA DE LOS IMPERIOS ASTRALES
-- [-3000] #green Fundación de los Grandes Reinos
-- [-3000] #yellow Los Clanes de Faba
-- [-2500] #purple La Edad de los Milagros
-- [-2000] #red El Cisma de Tarostela
+@ [-1522~-22] #cyan ERA DE LOS IMPERIOS ASTRALES
+- [-1522] #green Fundación de los Grandes Reinos
+- [-1522] #yellow Los Clanes de Faba
+- [-1022] #purple La Edad de los Milagros
+- [-522] #red El Cisma de Tarostela
 
-@ [-1500~-500] #red ERA DE FUEGO Y RUINA
-- [-1500] #red Las Guerras de los Paradigmas
-- [-1300] #orange La Lágrima del Desierto
-- [-1000] #red La Caída
-- [-700] #purple La Edad del Silencio
+@ [-22~978] #red ERA DE FUEGO Y RUINA
+- [-22] #red Las Guerras de los Paradigmas
+- [178] #orange La Lágrima del Desierto
+- [478] #red La Caída
+- [778] #purple La Edad del Silencio
 
-@ [500~] #gray ERA DEL SILENCIO DE HIERRO
-- [849] #blue Fundación del Consejo de Petram
-- [857] #yellow Los Acuerdos del Impulsum
-- [1000] #green El Auge Humano
-- [1378] #purple El Horizonte Roto
-- [1436]#orange Los Primeros Brotes de Supremacismo
+@ [978~1478] #gray ERA DEL SILENCIO DE HIERRO
+- [1127] #blue Fundación del Consejo de Petram
+- [1135] #yellow Los Acuerdos del Impulsum
+- [1278] #green El Auge Humano
+- [1426] #purple El Horizonte Roto
+- [1434] #orange Los Primeros Brotes de Supremacismo
 ```
 1478
 ### Cronología de Petram 
