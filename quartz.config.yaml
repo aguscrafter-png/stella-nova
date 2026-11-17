@@ -63,6 +63,9 @@ plugins:
         dark: github-dark
       keepBackground: false
     order: 20
+  - source: "./.quartz/plugins/image-wrap"
+    enabled: true
+    order: 39
   - source: "@quartz-community/obsidian-flavored-markdown"
     enabled: true
     options:
@@ -78,6 +81,9 @@ plugins:
       enableYouTubeEmbed: true
       enableVideoEmbed: true
     order: 40
+  - source: "./.quartz/plugins/chronos"
+    enabled: true
+    order: 45
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
     order: 30
@@ -259,10 +265,6 @@ plugins:
       enableInteraction: true
       darkMode: auto
       exportPadding: 20
-    order: 50
-  - source: ./local-plugins/image-wrap
-    enabled: true
-    options: {}
     order: 50
 layout:
   groups:

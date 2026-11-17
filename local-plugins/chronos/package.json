@@ -1,0 +1,17 @@
+{
+  "name": "chronos",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "./index.js",
+  "exports": {
+    ".": {
+      "import": "./index.js"
+    }
+  },
+  "quartz": {
+    "category": "transformer"
+  },
+  "dependencies": {
+    "unist-util-visit": "^5.0.0"
+  }
+}
