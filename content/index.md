@@ -1,5 +1,5 @@
 ---
-title: Stella Nova
+title: Stella Nova✨
 ---
 *Una enciclopedia del mundo de Petram... y un poquito mas.*
 
