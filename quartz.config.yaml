@@ -1,4 +1,4 @@
-﻿# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: "Stella Nova✨"
   pageTitleSuffix: ""
@@ -266,6 +266,14 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: "@quartz-community/obsidian-plugin-ttrpg-tools-maps"
+    enabled: true
+    options:
+      blockLanguage: zoommap
+      inlineBlockHeaderId: ZOOMMAP-DATA
+      maxInlineDataBytes: 0
+      defaultIconKey: pin-red
+    order: 55
 layout:
   groups:
     toolbar:
