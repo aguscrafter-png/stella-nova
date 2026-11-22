@@ -2,7 +2,7 @@
 Mapa interactivo de todo el mundo de Petram.
 
 ```zoommap
-image: Publico/Imagenes/Mapas/Petram.jpg
+image: Imagenes/Mapas/Petram.jpg
 # markers is optional; defaults to <image>.markers.json
 # markers: Assets/Map.jpg.markers.json
 
